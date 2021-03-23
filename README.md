@@ -33,6 +33,7 @@ ________________________________________
 ●	Playing characters are the ones which respond to the user based on the input from the user
 ●	Cars, monkeys, dinos, wizards etc, are the playing characters in the game.  
 Number	Character Name	What can this character do? 
+
 [1.]	BOY (Player1) /	Hits the ball
 
 
@@ -41,4 +42,5 @@ Number	Character Name	What can this character do?
 ●	Non Playing characters are the ones which don't have an action or a behaviour when the user interacts with the game.
 ●	Hurdles, stones, bananas, coins, etc are non playing characters in the game.   
 Number	Character Name	What can this character do? 
+
 [1.]	The Robot	/Opponent for main Character
